@@ -24,7 +24,7 @@
 </nav>
 <body>
 <section class="myimage" id="about">
-    <img src="/assets/port3.jpg" class="mine-img">
+    <img src="/assets/images/port3.jpg" class="mine-img">
 
     <div class="abt animate">
         <h2 class="abt-title">About me</h2>
@@ -86,7 +86,7 @@
         </div>
 
         <div class="project-container project-card">
-            <img src="/assets/bur.PNG" class="project-pic">
+            <img src="/assets/images/bur.PNG" class="project-pic">
             <h2 class="project-title">Motel Booking System</h2>
             <p class="project-details">A simple website that allows customers to book motel rooms and provides packages. Was my first project
             and it helped understand CRUD operations with a simple GUI</p>
@@ -94,7 +94,7 @@
         </div>
 
         <div class="project-container project-card">
-            <img src="/assets/do.PNG" class="project-pic">
+            <img src="/assets/images/do.PNG" class="project-pic">
             <h2 class="project-title">TO-DO list in C</h2>
             <p class="project-details">This is a simple TO-DO list written in C. This project helped me better understand
                 memory management.As this project is an executable file, please contact me for more.
