@@ -160,4 +160,7 @@ link.addEventListener("click", ()=> {
 })
 );
 </script>
+<?php
+phpinfo();
+?>
 </html>
