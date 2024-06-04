@@ -24,7 +24,7 @@
 </nav>
 <body>
 <section class="myimage" id="about">
-    <img src="/assets/port3.jpg" class="mine-img">
+    <img src="assets/port3.jpg" class="mine-img">
 
     <div class="abt animate">
         <h2 class="abt-title">About me</h2>
