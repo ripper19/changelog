@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="/api/assets/index.css">
+    <link rel="stylesheet" href="/assets/index.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="index.js"></script>
 
@@ -24,7 +24,7 @@
 </nav>
 <body>
 <section class="myimage" id="about">
-    <img src="/api/assets/port3.jpg" class="mine-img">
+    <img src="/assets/port3.jpg" class="mine-img">
 
     <div class="abt animate">
         <h2 class="abt-title">About me</h2>
@@ -161,6 +161,6 @@ link.addEventListener("click", ()=> {
 );
 </script>
 <?php
-phpinfo();
+
 ?>
 </html>
